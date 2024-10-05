@@ -13,6 +13,6 @@
   "license": "UNLICENSED",
   "description": "",
   "dependencies": {
-    "@aciiverse/fetcii": "../"
+    "@aciiverse/aciifx-cli": "../"
   }
 }

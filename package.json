@@ -1,5 +1,5 @@
 {
-    "name": "@aciiverse/fetcii",
+    "name": "@aciiverse/aciifx-cli",
     "version": "1.0.0",
     "description": "The powerful CLI for aciiFX backend in combination with fetcii",
     "main": "dist/index.js",

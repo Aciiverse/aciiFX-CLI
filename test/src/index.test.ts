@@ -1,4 +1,4 @@
-import { aciiFX } from "@aciiverse/fetcii";
+import { aciiFX } from "@aciiverse/aciifx-cli";
 import assert = require("node:assert");
 import { describe, it } from "node:test";
 
