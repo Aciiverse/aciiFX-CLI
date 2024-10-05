@@ -1,0 +1,38 @@
+{
+    "name": "@aciiverse/fetcii",
+    "version": "1.0.0",
+    "description": "The powerful CLI for aciiFX backend in combination with fetcii",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "repository": {
+        "url": "https://github.com/Aciiverse/aciiFX-CLI.git"
+    },
+    "author": "Flowtastisch",
+    "license": "MIT",
+    "publishConfig": {
+        "access": "public"
+    },
+    "keywords": [
+        "api",
+        "typescript",
+        "backend",
+        "simple",
+        "cli",
+        "acii",
+        "sql"
+    ],
+    "scripts": {
+        "start": "tsc && node dist/index.js",
+        "build": "tsc",
+        "build:watch": "tsc --watch",
+        "test": "tsc && node --test"
+    },
+    "files": [
+        "dist",
+        "!test",
+        "LICENCE"
+    ],
+    "devDependencies": {
+        "prettier": "^3.3.3"
+    }
+}
