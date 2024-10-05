@@ -4,3 +4,7 @@ config.json
 api/dist
 yarn.lock
 package-lock.json
+test/yarn.lock
+test/package-lock.json
+test/dist
+test/node_modules

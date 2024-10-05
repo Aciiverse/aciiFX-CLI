@@ -11,5 +11,5 @@
         "types": ["node"],
         "declaration": true
     },
-    "exclude": ["node_modules", "**/node_modules/*", "api", "dist", "test"]
+    "exclude": ["node_modules", "**/node_modules/*", "api", "dist"]
 }

@@ -1,5 +1,5 @@
 export module aciiFX {
-    export function testModule() {
-        console.log("module works");
+    export function testModule(): boolean {
+        return true;
     }
 }

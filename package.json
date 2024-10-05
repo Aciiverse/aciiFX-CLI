@@ -24,8 +24,7 @@
     "scripts": {
         "start": "tsc && node dist/index.js",
         "build": "tsc",
-        "build:watch": "tsc --watch",
-        "test": "tsc && node --test"
+        "build:watch": "tsc --watch"
     },
     "files": [
         "dist",
