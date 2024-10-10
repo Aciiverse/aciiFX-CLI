@@ -1,0 +1,21 @@
+{
+    "trailingComma": "es5",
+    "tabWidth": 4,
+    "printWidth": 80,
+    "singleAttributePerLine": false,
+    "semi": true,
+    "singleQuote": false,
+    "useTabs": false,
+    "bracketSpacing": true,
+    "overrides": [
+        {
+            "files": [
+                "*.html"
+            ],
+            "options": {
+                "xmlSelfClosingTags": true,
+                "xmlWhitespaceSensitivity": "ignore"
+            }
+        }
+    ]
+}

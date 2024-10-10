@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "ES6",
+        "strictNullChecks": true,
+        "strictFunctionTypes": true,
+        "strict": true,
+        "sourceMap": true,
+        "rootDir": "src",
+        "outDir": "dist",
+        "types": ["node"],
+        "declaration": true
+    },
+    "exclude": ["node_modules", "**/node_modules/*", "api", "dist", "test"]
+}
