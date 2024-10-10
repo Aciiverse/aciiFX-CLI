@@ -8,3 +8,4 @@ test/yarn.lock
 test/package-lock.json
 test/dist
 test/node_modules
+test/.env
