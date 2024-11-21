@@ -1,6 +1,6 @@
 {
     "name": "@aciiverse/aciifx-cli",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "The powerful CLI for aciiFX backend in combination with fetcii",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
@@ -32,11 +32,13 @@
         "LICENCE"
     ],
     "devDependencies": {
+        "@types/express": "^5.0.0",
+        "@types/node": "^22.9.1",
         "prettier": "^3.3.3"
     },
     "dependencies": {
         "dotenv": "^16.4.5",
         "express": "^4.21.1",
-        "mysql2": "^3.11.3"
+        "mysql2": "^3.11.4"
     }
 }
