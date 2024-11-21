@@ -1,6 +1,6 @@
 {
     "name": "@aciiverse/aciifx-cli",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "description": "The powerful CLI for aciiFX backend in combination with fetcii",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
