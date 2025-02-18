@@ -1,8 +1,9 @@
-import { db as dbModule } from "./db";
+// import { db as dbModule } from "./db";
 import { filter as filterModule } from "./filter";
 
-export const db = dbModule,
-    filter = filterModule;
+// Disabled for the moment
+// export const db = dbModule,
+export const filter = filterModule;
 
 /**
  * @module aciiFX cli shows all modules & functions you can use
@@ -11,6 +12,7 @@ export const db = dbModule,
  * @date 10.10.2024
  */
 export namespace aciiFX {
-    export const db = dbModule,
-        filter = filterModule;
+    // Disabled for the moment
+    // export const db = dbModule,
+    export const filter = filterModule;
 }
